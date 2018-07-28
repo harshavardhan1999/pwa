@@ -1,0 +1,27 @@
+{
+"details":{
+  "image":"pp.jpeg",
+  "name":"Ramu Harasha",
+  "phone":"9493119966",
+  "email":"ramu1999@gmail.com",
+  "address":"41-12-16, krishna lanka, vijayawada"
+},
+"career":{
+"info":"to purse a challenging career"
+},
+
+"education":[
+  {
+  "qualification":"B.Tech",
+  "institute":"mic college",
+  "year":"2016-2020",
+  "percentage":"89%"
+},
+{
+  "qualification":"Intermediate",
+  "institute":"Parayana",
+  "year":"2014-1016",
+  "percentage":"91%"
+}
+]
+}
